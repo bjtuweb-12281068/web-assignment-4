@@ -1,0 +1,85 @@
+body {
+  font-family: "STHeiti Light", "Microsoft YaHei", "STXihei", arial, sans-serif;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #fefefe;
+}
+
+.headline {
+  margin-top: 50px;
+}
+
+.headline h1 {
+  display: inline;
+}
+
+.headline .subtitle {
+  margin-left: 20px;
+}
+
+div.introduction {
+  margin: 10px 0px 10px 0px;
+}
+
+.address {
+  width: 60%;
+}
+
+address {
+  line-height: 1.2em;
+  border-color: gray;
+  border-style: dashed;
+  border-width: 1px;
+  padding: 5px 10px 5px 10px;
+}
+
+a {
+  color: gray;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: lightyellow;
+}
+
+li {
+  line-height: 1.4em;
+}
+
+.sidebar {
+  float: right; 
+  padding-top: 20px;
+}
+
+hr {
+  border-top: 1px dotted #aaa;
+  margin-top: 50px;
+}
+
+.copyright {
+  text-align: center;
+  color: gray;
+}
+
+.selfie {
+  width: 120px;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.return {
+  font-size: .8em;
+}
+
+#contact-form {
+  margin-top: 50px;
+  line-height: 2em;
+}
+
+.required {
+  border-color: red;
+  border-width: 1px;
+  border-style: solid;background-image:url("C:\Users\1\Desktop\394\394\images\b080_1.jpg");}
